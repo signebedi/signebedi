@@ -1,7 +1,6 @@
-### signebedi
 Whoso pulleth out this sword of this stone
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=signebedi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=signebedi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **signebedi/signebedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
